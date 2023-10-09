@@ -253,7 +253,7 @@ hr {
     border: none;
     background-color: #ffffff;
     font-size: 15px;
-    color: #808080;
+    color: black;
 }
 
 
@@ -328,11 +328,13 @@ hr {
     max-width: 90%;
     padding: 20px 0;
     font-size: 20px;
+    margin: 20px 0;
 }
 
 .banner-body .description button {
     padding: 10px;
     font-size: 15px;
+    margin: 20px 0;
 }
 
 
@@ -349,6 +351,14 @@ hr {
     background-color: #ffffff;
     border: none;
     font-size: 18px;
+}
+
+
+/* mid body  */
+
+
+.bottom-body {
+    margin-bottom: 50px;
 }
 
 .card {
